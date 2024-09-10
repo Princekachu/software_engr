@@ -1,1 +1,6 @@
-System.out.print("Pikachu");
+class test {
+    public static void main(String[] args) {
+        
+        System.out.print("Pikachu");
+    }
+}
