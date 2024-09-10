@@ -1,6 +1,12 @@
 class test {
+
+    test(String name){
+
+        System.out.print(name);
+    }
+    
     public static void main(String[] args) {
         
-        System.out.print("Pikachu");
+        test("Pikachu");
     }
 }
